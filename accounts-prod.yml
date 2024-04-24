@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to KimBank accounts related prod APIs "
   contactDetails:
     name: "John Doe - Product Lead"
-    email: "14d4e371e88d376e995bdbdeaf7685917aaea36ab7f94b35aa789723b3dcade90d6b33e4ac7671715d47ca04e373b354"
+    email: "{cipher}14d4e371e88d376e995bdbdeaf7685917aaea36ab7f94b35aa789723b3dcade90d6b33e4ac7671715d47ca04e373b354"
   onCallSupport:
     - (254) 792-504696
     - (254) 792-504696

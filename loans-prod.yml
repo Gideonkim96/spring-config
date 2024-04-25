@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to KimBank loans related produ APIs "
+  message: "Welcome to KimBank loans related production APIs "
   contactDetails:
     name: "John Doe - Product Lead"
     email: "johndoe@kimbank.com"
